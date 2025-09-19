@@ -620,6 +620,30 @@ video {
   margin-top: 1.25rem;
 }
 
+.me-2 {
+  margin-inline-end: 0.5rem;
+}
+
+.me-3 {
+  margin-inline-end: 0.75rem;
+}
+
+.me-5 {
+  margin-inline-end: 1.25rem;
+}
+
+.ms-3 {
+  margin-inline-start: 0.75rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
 .inline {
   display: inline;
 }
@@ -638,6 +662,15 @@ video {
 
 .border {
   border-width: 1px;
+}
+
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.pb-3 {
+  padding-bottom: 0.75rem;
 }
 
 .text-3xl {
