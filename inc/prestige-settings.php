@@ -8,6 +8,7 @@ if (class_exists('CSF')) {
     CSF::createOptions($prefix, array(
         'menu_title' => 'پرستیژ',
         'menu_slug'  => 'prestige-settings',
+        'menu_icon'  => PRESTIGE_THEMEURL . 'assets/images/navigation.svg'
     ));
 
     CSF::createSection($prefix, array(
