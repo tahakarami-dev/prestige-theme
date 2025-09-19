@@ -1,0 +1,19 @@
+{
+  "name": "prestige",
+  "version": "1.0.0",
+  "description": "**پرستیژ** یک قالب وردپرس حرفه‌ای و مدرن برای ساخت رزومه، نمونه‌کار و وب‌سایت شخصی است.  \r این قالب با تمرکز بر طراحی مینیمال، سرعت بالا و تجربه کاربری مناسب ساخته شده تا افراد بتوانند برند شخصی خود را به بهترین شکل معرفی کنند. پرستیژ انتخاب مناسبی برای فریلنسرها، طراحان، برنامه‌نویسان، مشاغل خلاق و هر کسی است که می‌خواهد یک وب‌سایت شخصی حرفه‌ای داشته باشد.",
+  "main": "index.js",
+"scripts": {
+  "dev": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/style.css --watch",
+  "build": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/style.css --minify"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13"
+  }
+}

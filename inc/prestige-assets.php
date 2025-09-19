@@ -13,6 +13,8 @@ function prestige_enqueue_scripts()
 
     // style 
     wp_enqueue_style('prestige-app-css', PRESTIGE_THEMEURL . 'assets/css/app.css');
+    wp_enqueue_style('prestige-tailwind-css', PRESTIGE_THEMEURL . 'assets/css/tailwind.css');
+
 
     wp_enqueue_style('prestige-style', get_stylesheet_uri(  ));
 
