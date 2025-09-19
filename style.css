@@ -1,12 +1,16 @@
 /*
 Theme Name: پرستیژ
 Theme URI: https://wordpress-dev.ir/prestige
-Author: طاها کرمی 
+Author: طاها کرمی
 Author URI: https://wordpress-dev.ir/
-Description: یک قالب وردپرس مدرن و حرفه‌ای برای رزومه، نمونه‌کار و وب‌سایت شخصی. طراحی سبک، ریسپانسیو و سازگار با سئو.
+Description: پرستیژ یک قالب وردپرس مدرن، سبک و حرفه‌ای برای رزومه، نمونه‌کار و وب‌سایت شخصی است. قالب کاملاً ریسپانسیو بوده و با سئو سازگار است. از المنتور و ووکامرس پشتیبانی می‌کند تا بتوانید صفحات حرفه‌ای و فروشگاهی را به راحتی ایجاد کنید.
 Version: 1.0.0
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: prestige
-Tags: رزومه, نمونه‌کار, شخصی,
+Tags: رزومه, نمونه‌کار, شخصی, مدرن, ریسپانسیو, سئو, المنتور, ووکامرس, حرفه‌ای
+Requires PHP: 7.4
+Requires at least: 6.0
+Tested up to: 6.6
+Domain Path: /languages
 */
